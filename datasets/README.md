@@ -6,12 +6,12 @@ This directory contains the specific data snapshots used to evaluate the SmishGr
 
 ## File Description
 
-### 1. 'active_phishing_600.txt'
+### 1. '600_active_links.txt'
 * **Description:** A random sample of 600 active phishing URLs. These links typically represent attacks hosted on a compromised legitimate website.
 * **Source:** [phishing-links-ACTIVE.txt](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE.txt) (Phishing.Database).
 * **Use Case:** Evaluating the detection rate against compromised domains
 
-## 2. 'new_domains_300.txt'
+## 2. '300_new_domains.txt'
 *  **Description:** A snapshot of 300 newly registered malicious domains. These represent "zero-day" infrastructure.
 *  **Source:** [phishing-domains-NEW-today.txt](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-domains-NEW-today.txt) (Phishing.Database).
 *  **Use Case:** Evaluating the effectiveness of the "Domain Age" heuristic
