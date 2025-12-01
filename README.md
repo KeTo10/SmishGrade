@@ -11,6 +11,17 @@ SMS phishing (smishing) often utilizes ephemeral infrastructure and "cloaking" t
 # Installation
 
 1. **Clone the repository**
+    ```bash
+    git clone [https://github.com/KeTo10/SmishGrade.git](https://github.com/KeTo10/SmishGrade.git)
+    cd SmishGrade
+    ```
+   
 2. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 # Usage
+  ```bash
+  python smishgrade.py
+  ```
