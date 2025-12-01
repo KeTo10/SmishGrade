@@ -16,7 +16,7 @@ This directory contains the specific data snapshots used to evaluate the SmishGr
 *  **Source:** [phishing-domains-NEW-today.txt](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-domains-NEW-today.txt) (Phishing.Database).
 *  **Use Case:** Evaluating the effectiveness of the "Domain Age" heuristic
 
-## 3. 'tranco_sample_1200.txt'
+## 3. 'tranco_top_1200.txt'
 *  **Description:** The top 1,200 domains from the Tranco list. These represent high-traffic, legitimate websites.
 *  **Source:** [Tranco List](https://tranco-list.eu/).
 *  **Use Case:** Determining the False Positive Rate and Precision
