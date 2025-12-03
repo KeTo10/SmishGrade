@@ -12,7 +12,7 @@ SMS phishing (smishing) often utilizes ephemeral infrastructure and "cloaking" t
 
 1. **Clone the repository**
     ```bash
-    git clone [https://github.com/KeTo10/SmishGrade.git](https://github.com/KeTo10/SmishGrade.git)
+    git clone https://github.com/KeTo10/SmishGrade.git
     cd SmishGrade
     ```
    
