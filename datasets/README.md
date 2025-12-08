@@ -32,4 +32,4 @@ If you use these specific snapshots, please credit the original data maintainers
     > Victor Le Pochat, Tom Van Goethem, Samaneh Tajalizadehkhoob, Maciej Korczyński, and Wouter Joosen. 2019. "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation," Proceedings of the 26th Annual Network and Distributed System Security Symposium (NDSS 2019). https://doi.org/10.14722/ndss.2019.23386
 
 ---
-**Disclaimer:** The files in this directory contain live malicious URLs. Exercise caution when handling them. Do not these links without a sandbox.
+**Disclaimer:** The files in this directory contain live malicious URLs. Exercise caution when handling them. Do not use these links without a sandbox.
